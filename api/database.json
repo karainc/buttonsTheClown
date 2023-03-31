@@ -1,0 +1,88 @@
+{
+  "clowns": [
+    {
+      "id": 1,
+      "name": "Buttons"
+    },
+    {
+      "id": 2,
+      "name": "Lollipop"
+    }
+  ],
+  "bookings": [
+    {
+      "parentName": "Daria",
+      "childName": "Alfie",
+      "number": 5,
+      "address": "123 st",
+      "date": "2023-04-20",
+      "length": 2,
+      "id": 2
+    },
+    {
+      "parentName": "Mom",
+      "childName": "Child",
+      "number": "3",
+      "address": "199 Some Street",
+      "date": "2023-07-26",
+      "length": "3",
+      "id": 3
+    }
+  ],
+  "completions": [
+    {
+      "bookingId": 1,
+      "clownId": 1,
+      "date_created": "2023-03-30T19:26:51.363Z",
+      "id": 1
+    },
+    {
+      "bookingId": 2,
+      "clownId": 1,
+      "date_created": "2023-03-31T13:33:29.730Z",
+      "id": 2
+    },
+    {
+      "bookingId": 3,
+      "clownId": 1,
+      "date_created": "2023-03-31T13:33:32.577Z",
+      "id": 3
+    },
+    {
+      "bookingId": "1",
+      "clownId": "1",
+      "date_created": "2023-03-31T13:57:07.320Z",
+      "id": 4
+    },
+    {
+      "bookingId": "2",
+      "clownId": "2",
+      "date_created": "2023-03-31T13:57:16.371Z",
+      "id": 5
+    },
+    {
+      "bookingId": "2",
+      "clownId": "1",
+      "date_created": "2023-03-31T14:01:53.414Z",
+      "id": 6
+    },
+    {
+      "bookingId": "2",
+      "clownId": "1",
+      "date_created": "2023-03-31T14:02:04.280Z",
+      "id": 7
+    },
+    {
+      "bookingId": "2",
+      "clownId": "2",
+      "date_created": "2023-03-31T14:02:07.202Z",
+      "id": 8
+    },
+    {
+      "bookingId": "3",
+      "clownId": "1",
+      "date_created": "2023-03-31T14:02:11.823Z",
+      "id": 9
+    }
+  ]
+}
